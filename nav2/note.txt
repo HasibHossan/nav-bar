@@ -1,0 +1,10 @@
+color 1 - FF6162
+color 2- 292640
+
+nav option 
+Demos 
+Features
+Documentation
+
+button
+Purchase Theme $100
